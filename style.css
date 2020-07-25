@@ -1,0 +1,122 @@
+body {
+	background-color: #ad9d9d;
+	color: rgb(50,50,50) ;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 380
+
+} 
+img {border-radius: 50%}
+
+h1{
+	color: #838383;
+	font-family: 'Raleway', sans-serif; 
+    font-weight:100;
+    letter-spacing: 3px;
+    font-size: 30px;}
+
+ h3{
+ 	font-size: 20px;
+	color: rgb(30,30,30);
+ 	font-family: 'Open Sans Condensed', sans-serif;}
+
+a { text-decoration:none;
+color: rgb(87,87,87) ; 
+font-weight: 200; 
+transition: color 0.3s ease;}
+ 
+a:hover {
+	color: #be5683;
+	text-decoration: underline;
+}
+
+div { background: #fccbcb;
+	padding: 30px;
+	border-radius:4px;
+	box-shadow: 0 15px 35px rgba(120,120,120);
+	width:700px;
+	margin: auto;}
+
+.img-circle {
+	border-radius: 50%;
+    border: 1px solid darkgrey;}
+
+.container{ width: 800px;
+        margin: 40px auto;
+        background: #d9adad; 
+        }
+
+.box-pink { margin:10px auto;
+		    width: 700px; 
+		    word-spacing:2px;
+		    line-height: 25px; }
+
+.mainbox-pink { margin:10px auto;
+	          width: 700px; 
+	         text-align: center;}
+
+.mainbox-intro p {margin-bottom: 30px;  }
+
+
+
+
+
+
+
+@media (max-width: 960px) { .box-passions {width: 700px} }
+
+@media (max-width: 720px) { .box-passions {width: 500px} }
+
+@media (max-width: 540px) { .box-passions {width: 300px} }
+
+@media (max-width: 320 px) { .box-passions {width: 200px} }
+
+
+
+@media (max-width: 960px) { .box-intro {width: 700px} }
+
+@media (max-width: 720px) { .box-intro {width: 500px} }
+
+@media (max-width: 540px) { .box-intro {width: 300px} }
+
+@media (max-width: 320px) { .box-intro {width: 200px} }
+
+
+@media (max-width: 960px) { .box-contact {width: 700px} }
+
+@media (max-width: 720px) { .box-contact {width: 500px} }
+
+@media (max-width: 540px) { .box-contact {width: 300px} }
+
+@media (max-width: 320px) { .box-contact {width: 200px} }
+
+
+.btn-pink {background-color:#d9adad; 
+color: rgb(50,50,50);
+padding: 8px 10px; 
+border-radius: 4px; }
+
+.list-inline { list-style: none;
+padding-left:0px; text-align: center; 
+}
+
+.list-inline li {
+	display:inline;
+	padding: 30px;
+}
+.list-inline i {font-size: 35px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
